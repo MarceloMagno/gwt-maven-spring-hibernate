@@ -1,0 +1,2 @@
+serviceClass: br.com.client.UsuarioService
+path: 4ED7D8C6FD04E451B43D91E3378903B0.gwt.rpc
